@@ -1,0 +1,2 @@
+# exercices solved in python
+ 
