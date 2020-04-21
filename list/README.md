@@ -6,9 +6,9 @@
 
 3. Insert elements in a list.
 
-4. Print the values ​​of a list.
+4. Print the values of a list.
 
-5. Print te max in a list.
+5. Print the max in a list.
 
 6. Calculate the average and standard deviation in a list of notes.
 
