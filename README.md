@@ -2,3 +2,4 @@
  
 * if statement and try/except
 * loops (for and while)
+* list
