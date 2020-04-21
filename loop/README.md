@@ -2,7 +2,7 @@
 
 1. Write a program that asks for a number between **1 and 10** and prints the multiplication table for that number properly aligned, using a **for loop**.
 
-2. Write a program that asks for a positive integer, n, and prints on the screen all the numbers between 0 and n that are multiples of 3 but not 5. Solve with a for loop.
+2. Write a program that asks for a **positive integer**, n, and prints on the screen all the numbers between 0 and n that are multiples of 3 but not 5. Solve with a **for loop**.
 
 3. Write a program that receives a positive integer and calculates the value of the **Fibonacci function**. For **N = 1** or **2**, **N** must be returned, otherwise it returns the sum of the two previous values.
 
@@ -22,3 +22,23 @@
 * The best note.
 * The worst note.
 * The average of the inserted notes.
+
+7. Write a program that simulates the insertion of an ATM code.
+
+* The program stores its secret code in the variable **password**.
+* The program asks you to type your password_inserted. If you enter the right code, display a case success message.
+* You have only 3 attempts to insert a password.
+
+8. Insert your password.
+
+* Define a program that has a keyword stored in the password variable.
+* Peça ao utilizador para inserir a password, **insert_password**.
+* if insert_password is wrong, send a message e tell to insert again.
+
+9. Sequence of numbers.
+
+* Write a program that reads a positive number inserted and calculate.
+* How manynumbers ot was inserted.
+* AVG.
+* And the greater number.
+* The sequence will be terminated if a negative number is entered or if a 0 is entered.

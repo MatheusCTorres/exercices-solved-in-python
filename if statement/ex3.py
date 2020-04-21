@@ -1,5 +1,5 @@
 try:
-    age = int(input("Insert a age: "))
+    age = int(input("Insert an age: "))
     if age <= 0:
         print("Invalid age")
     elif age < 13:
